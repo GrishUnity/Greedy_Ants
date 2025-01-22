@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="A_Ant">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAIAAAAAAAAAAAAAAAAAAAAAAAAQAEAABAAABAAAA=</HashCode>
+      <FileName>Assets\Scripts\A_Ant.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ant">
+    <Position X="5.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAKAAAAQAAAAAAAAAAAAAAAAIAAAAAIAgAAI=</HashCode>
+      <FileName>Assets\Scripts\Ant.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="I_Ant">
+    <Position X="8.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAIAAAAAIAgAAI=</HashCode>
+      <FileName>Assets\Scripts\I_Ant.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

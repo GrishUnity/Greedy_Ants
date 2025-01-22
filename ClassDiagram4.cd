@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Ant">
+    <Position X="1.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAAAAKABAAQgAAAACAAAAAQAAIAIZAAAAIIgAAI=</HashCode>
+      <FileName>Assets\Scripts\Ant.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ant_money">
+    <Position X="4" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIIAAAAIAAEAA=</HashCode>
+      <FileName>Assets\Scripts\Ant_money.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ant_shet">
+    <Position X="4.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKABAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Ant_shet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ant_unosit">
+    <Position X="6.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACIAAABAAAIAAAAAAEAAAQAAoIAAAAIAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Ant_unosit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Button_Canvas">
+    <Position X="24.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAABQAAAAAAAAAAAAAAJAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Button_Canvas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Button_Menu">
+    <Position X="26.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAJAAAEgAAAAAAQAAA=</HashCode>
+      <FileName>Assets\Scripts\Button_Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Button_Vibor">
+    <Position X="32.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAIABABCAAAAAQAAQAAAAAAAAAAAAgAAAAAgCBEAA=</HashCode>
+      <FileName>Assets\Scripts\Button_Vibor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Fake_popcorn">
+    <Position X="15.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAIAABAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Fake_popcorn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lipuchka">
+    <Position X="32.25" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAEAAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Lipuchka.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Manager">
+    <Position X="29.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQBAABAACAAgAAABAAAAQAAAAABAAAAAABAAkAAMCA=</HashCode>
+      <FileName>Assets\Scripts\Manager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Money">
+    <Position X="28.75" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Money.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Play_instrument">
+    <Position X="35.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BRwAIABAMAABAAAAoCAAAAAYAAAAAAgAAACiIAAABAA=</HashCode>
+      <FileName>Assets\Scripts\Play_instrument.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Popcorn">
+    <Position X="15.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIQAAAAAACAAAAQAAAAAAAAAAAAAAAAAACAACABAAAA=</HashCode>
+      <FileName>Assets\Scripts\Popcorn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Protovogaz">
+    <Position X="6.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Protovogaz.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Raspel">
+    <Position X="34" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAIEAAAAACAAAgAAAQAAAAAAAEAA=</HashCode>
+      <FileName>Assets\Scripts\Raspel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Spawn">
+    <Position X="18.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAADAACCAAAAQAAIAABAAAAAAAAgAAAIAAAgAAACA=</HashCode>
+      <FileName>Assets\Scripts\Spawn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tapok">
+    <Position X="35.75" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAEAAABAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Tapok.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zemletras">
+    <Position X="30.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAIEAAAAACAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Assets\Scripts\Zemletras.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

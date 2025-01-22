@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AbstractAnt">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIEIAAAAAAAAAAAAAAAAAAAAAAAAQAEAAABAABAAAA=</HashCode>
+      <FileName>Assets\Scripts\AbstractAnt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ant">
+    <Position X="7.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAIAAAAAAAAAAAAAAAAAAAIgIYAAEAMCgBAI=</HashCode>
+      <FileName>Assets\Scripts\Ant.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="AntBronja">
+    <Position X="9" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAKgBAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\AntBronja.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AntDonoschik">
+    <Position X="5.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAACIAAABAAAAAIAAAAAAAAAAgIIAAAAIAAAEA=</HashCode>
+      <FileName>Assets\Scripts\AntDonoschik.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AntMoney">
+    <Position X="11.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAIABAAAAAEAA=</HashCode>
+      <FileName>Assets\Scripts\AntMoney.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AntProtovoaz">
+    <Position X="1" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAIgAYAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\AntProtovoaz.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Button_Vibor" Collapsed="true">
+    <Position X="21.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAIABABCAAAAAQAAQAAAAAAAAAAAAgAAAAAgCBEAA=</HashCode>
+      <FileName>Assets\Scripts\Button_Vibor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ButtonCanvas" Collapsed="true">
+    <Position X="25.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAgAAKAAQAAAAAAAAAAAAAAIAAAAgAAAAAAQAAA=</HashCode>
+      <FileName>Assets\Scripts\ButtonCanvas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ButtonMenu" Collapsed="true">
+    <Position X="28.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAABAAAABAAAAAAAAIAAAAgAAAAAAQAAA=</HashCode>
+      <FileName>Assets\Scripts\ButtonMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Fakepopcorn" Collapsed="true">
+    <Position X="15.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Fakepopcorn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Girja" Collapsed="true">
+    <Position X="21.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAEAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Girja.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lipuchka" Collapsed="true">
+    <Position X="26" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAIAAAACAAAAAAAAEAAAAAAAEAAAgAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Lipuchka.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Manager" Collapsed="true">
+    <Position X="22.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQBAABAACAAgAAABAAAAQAAQAABAAAAAAAAAkAAEAA=</HashCode>
+      <FileName>Assets\Scripts\Manager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Money" Collapsed="true">
+    <Position X="23.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAEAAAAAIAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Money.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayInstrument" Collapsed="true">
+    <Position X="29.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BRwAIABAMAABAAAAICAAAAAIAAAAAAgAAACgIAAABAA=</HashCode>
+      <FileName>Assets\Scripts\PlayInstrument.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PoolObj" Collapsed="true">
+    <Position X="25.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAICAIAABAAAAAAAAAAAAkAAAAAAoAAACBAEA=</HashCode>
+      <FileName>Assets\Scripts\PoolObj.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Raspel" Collapsed="true">
+    <Position X="23.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAEAAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Raspel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Popcorn" Collapsed="true">
+    <Position X="29.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Popcorn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shet" Collapsed="true">
+    <Position X="23.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAIAAAAIAAAAAAAAEAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Shet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Spawn" Collapsed="true">
+    <Position X="27" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBAABACCAAAAAABAAAAIAAAAAAAiAACBCAAAAACAA=</HashCode>
+      <FileName>Assets\Scripts\Spawn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="IAnt" Collapsed="true">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAIIAAAAIAgAAI=</HashCode>
+      <FileName>Assets\Scripts\IAnt.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
