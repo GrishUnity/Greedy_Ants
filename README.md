@@ -11,6 +11,7 @@ Have a good game!
 Если вы используете сферу, динамит или заморозку, просто кликните на них, чтобы активировать.
 Используйте эти инструменты мудро, чтобы защитить свои пироги от нашествия муравьев.
 Удачной игры!
+
 ![7 ants](https://github.com/user-attachments/assets/b021cfb9-926b-40a9-8514-7baf22b336db)
 ![6 ants](https://github.com/user-attachments/assets/7f01e734-bcb2-46b9-b4b3-d519382fd6e4)
 ![5 ants](https://github.com/user-attachments/assets/42c1290a-155e-4052-9d73-8b8177442fc0)
