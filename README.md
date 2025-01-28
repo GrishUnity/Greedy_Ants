@@ -1,4 +1,9 @@
-Greedy Ants" is an exciting game in which your task is to prevent little ants from eating your pies. Ants are greedily trying to eat pies, so to prevent them from doing so, use your reaction and clicking speed. The game offers a variety of tools and features to use to save your pies.
+"Greedy Ants" is an exciting game in which your task is to prevent little ants from eating your pies. Ants are greedily trying to eat pies, so to prevent them from doing so, use your reaction and clicking speed. The game offers a variety of tools and features to use to save your pies.The goal of the game is to prevent the ants from eating your pies. To do this, you have various tools that make the gameplay easier. To select a tool, just click on it.
+If you have selected a spray gun, move the cursor across the screen to spray the spray.
+If you have selected a bomb or meteorites, left-click to place them.
+If you are using a sphere, dynamite, or freeze, just click on them to activate.
+Use these tools wisely to protect your pies from the invasion of ants.
+Have a good game!
 ![7 ants](https://github.com/user-attachments/assets/b021cfb9-926b-40a9-8514-7baf22b336db)
 ![6 ants](https://github.com/user-attachments/assets/7f01e734-bcb2-46b9-b4b3-d519382fd6e4)
 ![5 ants](https://github.com/user-attachments/assets/42c1290a-155e-4052-9d73-8b8177442fc0)
